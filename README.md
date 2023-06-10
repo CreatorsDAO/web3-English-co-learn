@@ -3,7 +3,7 @@
 
 Vitalik's Blog Co-Learn，解除你的英语封印
 
-> 📢 这是一个报名地址
+> 📢 [这是一个可以被点击的报名地址](https://mp.weixin.qq.com/s/-6WK55PXIGYVYNJtr45N3w)
 <br />
 
 ### [Github Discussion](https://github.com/CreatorsDAO/web3-english-co-learn/discussions) 使用方法
