@@ -8,17 +8,17 @@
 		{"id":"e0a478f77ea01815","type":"link","url":"https://www.youtube.com/watch?v=NQlFIrSZiIE","x":655,"y":7,"width":415,"height":277},
 		{"id":"986bd443cd0ccd3c","type":"file","file":"Productivity/English🇬🇧/Workflow.md","x":-1120,"y":100,"width":640,"height":670},
 		{"id":"ec11f7147a7e53cd","type":"file","file":"Productivity/English🇬🇧/📚 Reading.md","x":-217,"y":720,"width":817,"height":500},
-		{"id":"30146cef78e543ac","type":"file","file":"Productivity/imgs/Pasted image 20231125095438.png","x":655,"y":1380,"width":625,"height":487},
 		{"id":"df19cc873216a8a0","type":"file","file":"Productivity/English🇬🇧/🔊 Podcast.md","x":-217,"y":1380,"width":817,"height":460},
+		{"id":"43561b044ddc2d1b","type":"link","url":"https://www.youtube.com/watch?v=PHe0bXAIuk0","x":655,"y":320,"width":415,"height":240},
+		{"id":"21e28755f39aa5f0","type":"text","text":"# 找到匹配当前水平的学习方法 Workflow，切入到让自己真正舒适的环境中，而不是苦哈哈如老牛犁地，又痛苦又坚持不下去。\n# 我们的的最终目的是，能放松地，愉悦地让学英语这个事情过渡到自己的生活和日常中去，而不是将其始终视作一个额外需要抽出时间来去“学习” 的事情。","x":-1120,"y":-360,"width":1893,"height":200},
+		{"id":"30146cef78e543ac","type":"file","file":"Productivity/imgs/Pasted image 20231125095438.png","x":655,"y":1380,"width":625,"height":487},
 		{"id":"94d76528a553c36a","type":"file","file":"Productivity/imgs/second-brain.png","x":28,"y":1960,"width":1417,"height":797},
 		{"id":"d267cafcce0bc46b","type":"file","file":"Productivity/English🇬🇧/imgs/note.jpeg","x":1120,"y":7,"width":480,"height":360},
-		{"id":"43561b044ddc2d1b","type":"link","url":"https://www.youtube.com/watch?v=PHe0bXAIuk0","x":655,"y":320,"width":415,"height":240},
 		{"id":"47155abe1d7d9a42","type":"file","file":"Productivity/imgs/kindle.jpeg","x":655,"y":770,"width":300,"height":400},
 		{"id":"bb97c358a8e87dbe","type":"file","file":"Read 🇬🇧/Atomic Habit.md","x":1000,"y":770,"width":400,"height":400},
 		{"id":"1c7f18f84858a602","type":"file","file":"Read 🇬🇧/Naval.md","x":1440,"y":770,"width":400,"height":400},
 		{"id":"c5d5297f132f93fc","type":"file","file":"Productivity/English🇬🇧/✍️ Writing.md","x":2040,"y":584,"width":817,"height":400},
-		{"id":"7afebd961b9cda9b","type":"file","file":"Productivity/English🇬🇧/🗣️ Speaking.md","x":2049,"y":74,"width":808,"height":420},
-		{"id":"21e28755f39aa5f0","type":"text","text":"# 找到匹配当前水平的学习方法 Workflow，切入到让自己真正舒适的环境中，而不是苦哈哈如老牛犁地，又痛苦又坚持不下去。\n# 我们的的最终目的是，能放松地，愉悦地让学英语这个事情过渡到自己的生活和日常中去，而不是将其始终视作一个额外需要抽出时间来去“学习” 的事情。","x":-1120,"y":-360,"width":1893,"height":200}
+		{"id":"7afebd961b9cda9b","type":"file","file":"Productivity/English🇬🇧/🗣️ Speaking.md","x":2049,"y":74,"width":808,"height":420}
 	],
 	"edges":[
 		{"id":"567789fbaafa6f98","fromNode":"0557b97bca975ed4","fromSide":"right","toNode":"94d76528a553c36a","toSide":"right"},
